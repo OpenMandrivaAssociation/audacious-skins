@@ -11,6 +11,7 @@ URL: 		http://www.xmms.org/
 Source: 	audacious-skins.tar.bz2
 Group: 		Sound
 Requires: 	audacious unzip
+Buildroot: 	%{_tmppath}/%{name}-%{version}
 BuildArch:	noarch
 Provides:	beep-media-player-skins
 Obsoletes:	beep-media-player-skins
