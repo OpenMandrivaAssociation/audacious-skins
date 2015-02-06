@@ -1,6 +1,6 @@
 %define name audacious-skins
 %define version 1.0.0
-%define release %mkrel 8
+%define release 9
 
 Name: 		%{name}
 Summary: 	Additional skins for Audacious
