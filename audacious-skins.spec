@@ -7,7 +7,7 @@ Summary: 	Additional skins for Audacious
 Version: 	%{version}
 Release: 	%{release}
 License: 	GPL
-URL: 		http://www.xmms.org/
+URL: 		https://www.xmms.org/
 Source: 	audacious-skins.tar.bz2
 Group: 		Sound
 Requires: 	audacious unzip
